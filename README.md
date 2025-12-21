@@ -1,3 +1,6 @@
+Il faut ajouter le fichier des données non traité et le renommé data.csv et le mettre dans le dossier contenant les fichier .c, .h, makefile et scriptshell
+et il genera vos fichier de sortie automatiquement en fonction de la commande parmis celle qui suivent:
+
 ./script.sh data.csv histo src
 
 cette commande permet de traiter tout le .dat et retourné un fichier dans l'ordre lexicographique inverse des id d'usine avec pour chacune leur quantité d'eau
