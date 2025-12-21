@@ -21,4 +21,4 @@ acheminé depuis les sources après les fuites sur le troncon et 2 histogramme s
 ./script.sh data.csv leaks "id_usine"
 
 cette commande permet de traiter tout le .dat et met à jour un fichier contenant l'historique des commandes leaks avec pour chacune id usine et fuite totale sur
-réseau aval
+réseau aval ainsi que le troncon qui provoque la plus grosse fuite en quantite sur le reseau aval avec son idamont, idaval et quantité en m.M3
